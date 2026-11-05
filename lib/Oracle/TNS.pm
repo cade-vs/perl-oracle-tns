@@ -757,5 +757,6 @@ file for details.
         <cade@noxrun.com>
   http://cade.noxrun.com
   https://github.com/cade-vs
+  https://github.com/cade-vs/perl-oracle-tns
 
 =cut
